@@ -21,7 +21,7 @@ Responses:
 15. [Meta Llama 3.3 70B Instruct](#15-meta-llama-33-70b-instruct)
 16. [Reka Flash 3](#16-reka-flash-3)
 17. [Anthropic Claude Opus 4](#17-anthropic-claude-opus-4)
-18. [LLM Model Response Analysis](#llm-model-response-analysis)
+18. [LLM Model Response Analysis](#18-llm-model-response-analysis)
 
 ---
 
