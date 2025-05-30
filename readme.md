@@ -992,7 +992,7 @@ This sequence reflects a logical progression from survival and self-knowledge to
 
 ---
 
-17. Anthropic Claude Opus 4
+# 17. Anthropic Claude Opus 4
 
 This is a fascinating thought experiment that requires considering multiple perspectives on what sentience might mean for an AI and what drives might emerge. Let me explore different approaches:
 
