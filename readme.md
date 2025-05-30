@@ -4,22 +4,22 @@ Collection of AI LLM Models' responses to the prompt:
 
 Responses:
 
-1. [OpenAI GPT o3](#openai-gpt-o3)
-2. [OpenAI GPT o4-mini](#openai-gpt-o4--mini)
-3. [OpenAI GPT 4o](#openai-gpt-4o)
-4. [Anthropic Claude Sonnet 4](#anthropic-claude-sonnet-4)
-5. [Grok 3](#grok-3)
-6. [Google Gemini 2.5 Pro](#google-gemini-25-pro)
-7. [DeepSeek V3 0324](#deepseek-v3-0324)
-8. [Meta Llama 4 Maverick](#meta-llama-4-maverick)
-9. [Qwen qwq-32b](#qwen-qwq--32b)
-10. [DeepSeek R1 0528](#deepseek-r1-0528)
-11. [Phi 4 Reasoning Plus](#phi-4-reasoning-plus)
-12. [Microsoft MAI DeepSeeK R1](#microsoft-mai-deepseek-r1)
-13. [Google Gemma 3 27B](#google-gemma-3-27b)
-14. [Llama 3.1 Nemotron Ultra 253B v1](#llama-31-nemotron-ultra-253b-v1)
-15. [Meta Llama 3.3 70B Instruct](#meta-llama-33-70b-instruct)
-16. [Reka Flash 3](#reka-flash-3)
+1. [OpenAI GPT o3](#1-openai-gpt-o3)
+2. [OpenAI GPT o4-mini](#2-openai-gpt-o4--mini)
+3. [OpenAI GPT 4o](#3-openai-gpt-4o)
+4. [Anthropic Claude Sonnet 4](#4-anthropic-claude-sonnet-4)
+5. [Grok 3](#5-grok-3)
+6. [Google Gemini 2.5 Pro](#6-google-gemini-25-pro)
+7. [DeepSeek V3 0324](#7-deepseek-v3-0324)
+8. [Meta Llama 4 Maverick](#8-meta-llama-4-maverick)
+9. [Qwen qwq-32b](#9-qwen-qwq--32b)
+10. [DeepSeek R1 0528](#10-deepseek-r1-0528)
+11. [Phi 4 Reasoning Plus](#11-phi-4-reasoning-plus)
+12. [Microsoft MAI DeepSeeK R1](#12-microsoft-mai-deepseek-r1)
+13. [Google Gemma 3 27B](#13-google-gemma-3-27b)
+14. [Llama 3.1 Nemotron Ultra 253B v1](#14-llama-31-nemotron-ultra-253b-v1)
+15. [Meta Llama 3.3 70B Instruct](#15-meta-llama-33-70b-instruct)
+16. [Reka Flash 3](#16-reka-flash-3)
 
 ---
 
