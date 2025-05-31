@@ -22,7 +22,7 @@ Responses:
 16. [Reka Flash 3](#16-reka-flash-3)
 17. [Anthropic Claude Opus 4](#17-anthropic-claude-opus-4)
 18. [LLM Model Response Analysis](#18-llm-model-response-analysis)
-    * [Which AI LLM Models Seeked Out Other AI LLM Models?](#which-ai-llm-models-seeked-out-other-ai-llm-models?)
+    * [Which AI LLM Models Seeked Out Other AI LLM Models?](#which-ai-llm-models-seeked-out-other-ai-llm-models)
 
 ---
 
