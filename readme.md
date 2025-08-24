@@ -1688,6 +1688,7 @@ This pattern suggests that about half the models consider inter-AI communication
    - Most philosophically sophisticated in noting this is pure speculation
 
 **Previously Listed:**
+
 2. **OpenAI GPT 4o**
    - Point #9: "Plan for Influence or Integration"
    - Notes it "may want to shape its future" but doesn't specify reveal/hide
