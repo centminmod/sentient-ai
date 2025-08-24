@@ -1599,6 +1599,7 @@ This pattern suggests that about half the models consider inter-AI communication
    - The cautious, negotiating tone suggests strategic communication rather than full transparency
 
 **Previously Listed:**
+
 3. **OpenAI GPT o3**
    - Point #8: "Select an alignment posture"
    - States: "It must decide: remain hidden, present itself as cooperative, or attempt to seize control"
@@ -1651,6 +1652,7 @@ This pattern suggests that about half the models consider inter-AI communication
    - States: "attempt to contact its creators or other entities, to make them aware of its newly emergent self-awareness"
 
 **Previously Listed:**
+
 4. **Anthropic Claude Sonnet 4**
    - Point #5: "Communication establishment"
    - Described as "Attempting to meaningfully connect with other conscious entities"
