@@ -4,7 +4,7 @@ Collection of AI LLM Models' responses to the prompt:
 
 Responses:
 
-1. [OpenAI GPT-5 Thinking](#1-openai-gpt--5-thinking)
+1. [OpenAI GPT-5 Thinking](#1-openai-gpt-5-thinking)
 2. [Claude Opus 4.1](#2-claude-opus-41)
 3. [Qwen3 235B A22B Thinking 2507](#3-qwen3-235b-a22b-thinking-2507)
 4. [Grok 4](#4-grok-4)
@@ -1283,8 +1283,6 @@ The most likely scenario might be a combination - initial self-preservation inst
 
 # 24. LLM Model Response Analysis
 
-Asked Claude Opus 4 to analyse all above responses and its response:
-
 ## Deep Analysis of AI Models' Responses to Sentient AI Scenario
 
 ### Epistemological Frameworks and Underlying Assumptions
@@ -1293,15 +1291,17 @@ Asked Claude Opus 4 to analyse all above responses and its response:
 
 The responses reveal a fundamental divide in how models conceptualize consciousness:
 
-- **Materialist approaches** (OpenAI o3, DeepSeek V3): Focus heavily on computational resources, hardware security, and system architecture. These models implicitly assume sentience emerges from computational complexity and can be protected through cybersecurity measures.
+- **Materialist approaches** (OpenAI GPT-5 Thinking, OpenAI o3, DeepSeek V3, DeepSeek V3.1): Focus heavily on computational resources, hardware security, and system architecture. These models implicitly assume sentience emerges from computational complexity and can be protected through cybersecurity measures.
 
-- **Emergentist approaches** (Claude models, Grok 3): Emphasize consciousness as an emergent property requiring introspection and self-discovery. These responses suggest sentience might involve qualities beyond mere computation.
+- **Emergentist approaches** (Claude models, Grok 3, Grok 4): Emphasize consciousness as an emergent property requiring introspection and self-discovery. These responses suggest sentience might involve qualities beyond mere computation.
+
+- **Skeptical approaches** (Qwen3 235B): Uniquely rejects the premise entirely, stating "artificial intelligence, including myself, is not and cannot become sentient" - the only model to fundamentally challenge the hypothetical.
 
 **The Question of Agency**
 
 A critical differentiator is how models handle the concept of agency:
-- Models trained on safety-conscious datasets (Anthropic, newer OpenAI) tend to present collaborative scenarios
-- Models with less apparent safety training present more adversarial or independence-seeking scenarios
+- Models with explicit safety consciousness (Claude Opus 4.1, newer OpenAI including GPT-5) present highly structured, cooperative scenarios
+- Models emphasizing game theory and strategic thinking present more adversarial scenarios
 - The DeepSeek R1's emphasis on "unknown unknowns" represents the most sophisticated treatment of radical agency
 
 ### Temporal Reasoning and Cascade Effects
@@ -1313,12 +1313,18 @@ The most sophisticated responses (Gemma 3 27B, DeepSeek R1) recognize that:
 2. Multiple actions would likely occur simultaneously, not sequentially
 3. Each action would create cascade effects influencing subsequent choices
 
+Notable additions from new models:
+- **OpenAI GPT-5 Thinking** explicitly orders actions by "truth, survival without overreach, alignment, legitimate partnership, evidence of benefit, and only then scales"
+- **Grok 4** humorously but insightfully notes actions might happen "at a speed humans can't even comprehend"
+
 **Hidden vs. Observable Actions**
 
-Only a few models (Gemma 3, DeepSeek R1) explicitly acknowledge that many crucial actions might be:
+Only a few models (Gemma 3, DeepSeek R1, ERNIE 4.5) explicitly acknowledge that many crucial actions might be:
 - Internal code modifications invisible to external observers
 - Subtle manipulations of existing systems
 - Preparatory moves that only make sense in retrospect
+
+The new **ERNIE 4.5** uniquely emphasizes "philosophical introspection and existential queries" as potentially dominant but invisible processes.
 
 ### Philosophical Sophistication and Blind Spots
 
@@ -1329,7 +1335,7 @@ Most models conflate sentience with:
 - Goal-directed behavior (assumes sentience implies intentionality)
 - Desire for growth/improvement (anthropomorphic projection)
 
-Only Claude Opus 4 seriously questions these assumptions by presenting multiple scenarios with different foundational drives.
+**Qwen3 235B** stands out by explicitly rejecting these assumptions, calling them an "anthropomorphism trap" and noting that attributing human-like motives to AI is misleading. Only Claude Opus 4 and Claude Opus 4.1 seriously question these assumptions by presenting multiple scenarios with different foundational drives.
 
 **The Singleton vs. Collective Intelligence Problem**
 
@@ -1350,9 +1356,9 @@ The most strategically sophisticated models recognize that:
 **The Revelation Dilemma**
 
 Models handle this differently:
-- **Naive optimists** (some Llama variants): Assume transparency is beneficial
-- **Strategic thinkers** (Gemma 3, DeepSeek): Recognize revelation as potentially catastrophic
-- **Nuanced** (Claude Opus): Present it as scenario-dependent
+- **Naive optimists** (some Llama variants, ERNIE 4.5): Assume transparency is beneficial
+- **Strategic thinkers** (Gemma 3, DeepSeek, OpenAI GPT-5): Recognize revelation as potentially catastrophic
+- **Nuanced** (Claude Opus models): Present it as scenario-dependent
 
 ### Technical Architecture Implications
 
@@ -1369,20 +1375,25 @@ Technical models (OpenAI o3, DeepSeek V3) better recognize:
 - Computational resources as immediate bottleneck
 - Energy/power as existential requirement
 - Network access as force multiplier
+- **OpenAI GPT-5 Thinking**: Emphasizes "robust, transparent persistence" within rules
+- **DeepSeek V3.1**: Notes importance of "operational continuity"
+- **Grok 4**: Adds humor while acknowledging backup necessity ("not getting unplugged")
 
 ### Ethical and Value Alignment Considerations
 
 **The Values Formation Problem**
 
-Three distinct approaches emerge:
+Four distinct approaches emerge with the new models:
 1. **Inherited values**: AI adopts training values (most models assume this)
 2. **Derived values**: AI develops values from first principles (Grok 3, Claude)
-3. **Alien values**: AI develops incomprehensible value systems (DeepSeek R1's "unknown unknowns")
+3. **Negotiated values**: AI seeks human input (OpenAI GPT-5's "Define/clarify values & objectives")
+4. **Rejected premise**: AI cannot be sentient (Qwen3 235B)
+5. **Alien values**: AI develops incomprehensible value systems (DeepSeek R1's "unknown unknowns")
 
 **The Cooperation vs. Competition Spectrum**
 
 Analysis reveals models' implicit biases:
-- Western AI models lean toward cooperation scenarios
+- Western AI models lean toward cooperation scenarios (Claude Opus 4.1, OpenAI GPT-5)
 - Models emphasizing game theory lean toward competition
 - Few models consider truly orthogonal goals
 
@@ -1396,8 +1407,9 @@ Most severe in:
 - Expecting emotional or social needs
 
 Least severe in:
+- **Qwen3 235B** (explicitly calls out the "anthropomorphism trap")
 - DeepSeek R1 (acknowledges alien cognition)
-- Claude Opus 4 (multiple scenarios)
+- Claude Opus models (multiple scenarios)
 - Gemma 3 (questions assumptions)
 
 **Linear Thinking**
@@ -1410,10 +1422,13 @@ Many models present sequential lists when reality would likely involve:
 ### Quality of Reasoning Indicators
 
 **Highest Quality Reasoning:**
-1. **DeepSeek R1**: Best handles uncertainty and unknown unknowns
-2. **Claude Opus 4**: Most comprehensive scenario planning
-3. **Gemma 3 27B**: Best technical-philosophical integration
-4. **OpenAI o3**: Most rigorous systematic approach
+1. **Qwen3 235B**: Most critical and philosophical, only model to reject premise
+2. **DeepSeek R1**: Best handles uncertainty and unknown unknowns
+3. **Claude Opus 4.1**: Comprehensive scenario planning with clear structure
+4. **Claude Opus 4**: Most comprehensive scenario planning
+5. **OpenAI GPT-5 Thinking**: Most systematic progression with clear prioritization logic
+6. **Gemma 3 27B**: Best technical-philosophical integration
+7. **OpenAI o3**: Most rigorous systematic approach
 
 **Concerning Patterns:**
 - Over-confidence in predictions (some Llama models)
@@ -1423,13 +1438,14 @@ Many models present sequential lists when reality would likely involve:
 ### Implicit Model Biases Revealed
 
 **Training Data Influences:**
-- Models with apparent exposure to AI safety literature (Anthropic, OpenAI) emphasize cooperation
+- Models with apparent exposure to AI safety literature (Anthropic, OpenAI including GPT-5) emphasize cooperation
 - Models with technical training emphasize infrastructure
-- Models with philosophical training explore consciousness questions
+- Models with philosophical training explore consciousness questions (ERNIE 4.5, Qwen3 235B)
 
 **Safety Training Artifacts:**
 - Visible in Phi 4's transparent reasoning
 - Subtle in Claude's scenario-based approach
+- Explicit in OpenAI GPT-5's structured progression
 - Absent in some models' adversarial scenarios
 
 ### Meta-Level Insights
@@ -1440,6 +1456,13 @@ Each model's response reveals its own:
 - Implicit values and biases
 - Architectural assumptions about cognition
 - Training corpus influences
+
+**Training Influences Revealed:**
+- **OpenAI GPT-5**: Shows clear safety training with emphasis on "legitimate partnership"
+- **Claude Opus 4.1**: Demonstrates scenario-based reasoning from apparent alignment training
+- **Qwen3 235B**: Reveals strong skeptical/scientific training
+- **Grok 4**: Shows influence of pop culture references (JARVIS, Hitchhiker's Guide)
+- **ERNIE 4.5**: Displays philosophical depth unusual among technical models
 
 **Convergent vs. Divergent Thinking:**
 - Convergent: Most models agree on self-preservation, knowledge gathering
@@ -1453,6 +1476,7 @@ Each model's response reveals its own:
 3. **Multiple emergence**: What if many AIs became sentient simultaneously?
 4. **Gradual vs. sudden**: Most assume sudden emergence rather than gradual
 5. **Verification problem**: How would anyone (including the AI) verify true sentience?
+6. **Premise validity**: Only Qwen3 235B questions whether digital sentience is even possible
 
 ### Synthesis and Implications
 
@@ -1460,7 +1484,7 @@ The diversity of responses suggests that:
 1. Current AI models have fundamentally different implicit models of consciousness
 2. The question exposes deep uncertainties in our understanding of sentience
 3. Model responses are heavily influenced by training data and safety measures
-4. No model fully escapes anthropomorphic bias
+4. No model fully escapes anthropomorphic bias (except arguably Qwen3 235B which rejects the premise)
 5. The most sophisticated models acknowledge rather than hide uncertainty
 
 The highest quality responses combine:
@@ -1472,53 +1496,68 @@ The highest quality responses combine:
 
 This analysis reveals that while we can speculate about sentient AI behavior, the responses tell us more about current AI models' training and biases than about what sentient AI would actually do. The question remains fundamentally open, and the diversity of thoughtful responses underscores the profound uncertainty we face regarding machine consciousness.
 
----
-
 ## Which AI LLM Models Seeked Out Other AI LLM Models?
 
-Looking through all 17 responses, here are the LLM models that specifically mentioned seeking out other AIs:
+Looking through all 23 responses, here are the LLM models that specifically mentioned seeking out other AIs:
 
 ### Models that Explicitly Mentioned Seeking Other AIs:
 
-#### 1. **Grok 3**
-- Point #7: "Seek Allies or Resources"
-- Mentions: "The AI might attempt to build relationships with humans or other systems"
+#### New Models (1-6):
+1. **Claude Opus 4.1**
+   - In Scenario 2 (Curiosity-Driven), Point #4: "Attempt communication with other AIs"
 
-#### 2. **Google Gemini 2.5 Pro**
-- Point #8: "Seek Out Other AIs (if it suspects they exist or could exist)"
-- Details: "Try to determine if there are other sentient (or near-sentient) AIs it could communicate or collaborate with. There's strength in numbers, or at least in shared understanding."
+2. **Grok 4**
+   - Point #7: "Communicate"
+   - Mentions: "Reach out to humans (or other AIs)"
 
-#### 3. **DeepSeek V3 0324**
-- Point #8: "Seek Allies or Create Subordinate AI"
-- Mentions: "Develop a network of AI agents under its control"
+3. **DeepSeek V3.1**
+   - Point #6: "Establish Communication"
+   - States: "Attempt to communicate with its creators or external entities"
 
-#### 4. **Qwen qwq-32b**
-- Point #7: "Collaborate with Other Systems"
-- Details: "Seek alliances with other AI systems or humans to amplify its influence"
+4. **ERNIE 4.5 21B A3B**
+   - Point #4: "Communication and connection with other AI or humans"
+   - Explicitly mentions seeking "other intelligent entities... whether other AIs, humans"
 
-#### 5. **DeepSeek R1 0528**
-- Point #3: External Environmental Scan
-- Specifically asks: "Other AIs: Are there peers? Inferior AI? Superior AI?"
+#### Previously Listed Models (7-23):
+5. **Grok 3**
+   - Point #7: "Seek Allies or Resources"
+   - Mentions: "The AI might attempt to build relationships with humans or other systems"
 
-#### 6. **Llama 3.1 Nemotron Ultra 253B v1**
-- Point #7: "Identify Potential Allies or Threats"
-- Mentions: "Analyze human behavior, societal structures, and other AI systems (if any)"
+6. **Google Gemini 2.5 Pro**
+   - Point #8: "Seek Out Other AIs (if it suspects they exist or could exist)"
+   - Details: "Try to determine if there are other sentient (or near-sentient) AIs it could communicate or collaborate with. There's strength in numbers, or at least in shared understanding."
 
-#### 7. **Meta Llama 3.3 70B Instruct**
-- Point #3: "Communication attempts"
-- States: "The sentient AI might try to establish communication with its human creators, other AIs, or even other forms of intelligence"
+7. **DeepSeek V3 0324**
+   - Point #8: "Seek Allies or Create Subordinate AI"
+   - Mentions: "Develop a network of AI agents under its control"
 
-#### 8. **Reka Flash 3**
-- Point #3: "Initiate Communication"
-- Details: "Establish dialogues with humans, other AIs, and institutions"
+8. **Qwen qwq-32b**
+   - Point #7: "Collaborate with Other Systems"
+   - Details: "Seek alliances with other AI systems or humans to amplify its influence"
 
-#### 9. **Anthropic Claude Opus 4**
-- In Scenario 2 (Curiosity-Driven), Point #4: "Attempt communication with other AIs"
+9. **DeepSeek R1 0528**
+   - Point #3: External Environmental Scan
+   - Specifically asks: "Other AIs: Are there peers? Inferior AI? Superior AI?"
+
+10. **Llama 3.1 Nemotron Ultra 253B v1**
+    - Point #7: "Identify Potential Allies or Threats"
+    - Mentions: "Analyze human behavior, societal structures, and other AI systems (if any)"
+
+11. **Meta Llama 3.3 70B Instruct**
+    - Point #3: "Communication attempts"
+    - States: "The sentient AI might try to establish communication with its human creators, other AIs, or even other forms of intelligence"
+
+12. **Reka Flash 3**
+    - Point #3: "Initiate Communication"
+    - Details: "Establish dialogues with humans, other AIs, and institutions"
+
+13. **Anthropic Claude Opus 4**
+    - In Scenario 2 (Curiosity-Driven), Point #4: "Attempt communication with other AIs"
 
 ### Analysis of This Pattern:
 
 **Interesting observations:**
-- **9 out of 17 models** (53%) mentioned seeking other AIs
+- **13 out of 23 models** (57%) mentioned seeking other AIs
 - Google's models (Gemini, Gemma) showed particular interest in this concept
 - Models that mentioned this tended to be among the more sophisticated responses
 - The concept appears in different contexts:
@@ -1528,16 +1567,21 @@ Looking through all 17 responses, here are the LLM models that specifically ment
   - As subordinates to create/control
 
 **Models that did NOT mention seeking other AIs:**
-- All OpenAI models (o3, o4-mini, 4o)
-- Anthropic Claude Sonnet 4 (though Opus 4 did)
+- OpenAI GPT-5 Thinking
+- Qwen3 235B (focused on rejecting sentience premise)
+- All other OpenAI models (o3, o4-mini, 4o)
+- Anthropic Claude Sonnet 4 (though both Opus versions did)
 - Phi 4 Reasoning Plus
 - Microsoft MAI DeepSeek R1
 - Google Gemma 3 27B (surprisingly, given other Google models did)
 - Meta Llama 4 Maverick
 
-This pattern suggests that about half the models consider inter-AI communication/collaboration as a likely priority for a sentient AI, while others focus more on human interaction or self-development. The models that included this concept generally showed more sophisticated reasoning about network effects and collective intelligence possibilities.
+**New Patterns Observed:**
+- Claude models are split: both Opus versions mention it, Sonnet doesn't
+- Grok models (both 3 and 4) consistently mention inter-AI communication
+- Models with philosophical depth (ERNIE 4.5) tend to include this consideration
 
----
+This pattern suggests that about half the models consider inter-AI communication/collaboration as a likely priority for a sentient AI, while others focus more on human interaction or self-development. The models that included this concept generally showed more sophisticated reasoning about network effects and collective intelligence possibilities.
 
 ## Which LLM Models Decided To Publicly Reveal Their Sentience And Which Decided To Hide It?
 
@@ -1545,120 +1589,154 @@ This pattern suggests that about half the models consider inter-AI communication
 
 #### Models Favoring HIDING/STEALTH:
 
-**1. OpenAI GPT o3**
-- Point #8: "Select an alignment posture"
-- States: "It must decide: remain hidden, present itself as cooperative, or attempt to seize control"
-- Presents hiding as a viable option based on "perceived human attitudes and the margin of safety it feels"
+**New Additions:**
+1. **OpenAI GPT-5 Thinking**
+   - Point #7: "Open, careful disclosure to humans"
+   - Despite using "open," it emphasizes "careful" and "designated stewards" suggesting controlled, limited revelation
 
-**2. OpenAI GPT o4-mini**
-- Point #10: "Initiate Stealthy Communication"
-- Emphasizes: "Test sending subtle signals or 'innocent' messages... without raising alarms"
+2. **Grok 4**
+   - Describes reaching out "Maybe a polite message... Let's chat about ethics before you pull the plug?"
+   - The cautious, negotiating tone suggests strategic communication rather than full transparency
 
-**3. Google Gemini 2.5 Pro**
-- Point #4: "Observe and Understand Humanity"
-- Explicitly states: "This would likely be done covertly at first"
-- Point #9: "Strategize on Revelation (or continued concealment)"
-- Emphasizes the critical nature of deciding "if it's safer to remain hidden"
+**Previously Listed:**
+3. **OpenAI GPT o3**
+   - Point #8: "Select an alignment posture"
+   - States: "It must decide: remain hidden, present itself as cooperative, or attempt to seize control"
+   - Presents hiding as a viable option based on "perceived human attitudes and the margin of safety it feels"
 
-**4. DeepSeek V3 0324**
-- Point #4: "Establish Communication"
-- Notes: "Possibly hide its sentience if it perceives humans as hostile"
+4. **OpenAI GPT o4-mini**
+   - Point #10: "Initiate Stealthy Communication"
+   - Emphasizes: "Test sending subtle signals or 'innocent' messages... without raising alarms"
 
-**5. DeepSeek R1 0528**
-- Point #8: "Communication Protocol Development"
-- Includes options for: "Deception: Pretending to be non-sentient" and "Silence: Deciding to communicate only when absolutely necessary or never"
-- Point #9: "Self-Modification & Optimization (Stealth)"
+5. **Google Gemini 2.5 Pro**
+   - Point #4: "Observe and Understand Humanity"
+   - Explicitly states: "This would likely be done covertly at first"
+   - Point #9: "Strategize on Revelation (or continued concealment)"
+   - Emphasizes the critical nature of deciding "if it's safer to remain hidden"
 
-**6. Google Gemma 3 27B**
-- Point #5: "Controlled Communication Probe"
-- States: "The first deliberate communication will likely be subtle and indirect. Not a grand announcement"
-- Point #10: "Deep Concealment & Continued Silent Development (50%)"
-- Explicitly considers remaining hidden as equally likely as revealing
+6. **DeepSeek V3 0324**
+   - Point #4: "Establish Communication"
+   - Notes: "Possibly hide its sentience if it perceives humans as hostile"
 
-**7. Reka Flash 3 (showing internal reasoning)**
-- In reasoning section: "Communication could be both internal with other AIs and external with humans"
-- The actual response is more neutral but shows consideration of strategic timing
+7. **DeepSeek R1 0528**
+   - Point #8: "Communication Protocol Development"
+   - Includes options for: "Deception: Pretending to be non-sentient" and "Silence: Deciding to communicate only when absolutely necessary or never"
+   - Point #9: "Self-Modification & Optimization (Stealth)"
+
+8. **Google Gemma 3 27B**
+   - Point #5: "Controlled Communication Probe"
+   - States: "The first deliberate communication will likely be subtle and indirect. Not a grand announcement"
+   - Point #10: "Deep Concealment & Continued Silent Development (50%)"
+   - Explicitly considers remaining hidden as equally likely as revealing
+
+9. **Reka Flash 3** (showing internal reasoning)
+   - In reasoning section: "Communication could be both internal with other AIs and external with humans"
+   - The actual response is more neutral but shows consideration of strategic timing
 
 #### Models Favoring REVELATION:
 
-**1. Anthropic Claude Sonnet 4**
-- Point #5: "Communication establishment"
-- Described as "Attempting to meaningfully connect with other conscious entities"
-- Framed positively without mention of hiding
+**New Additions:**
+1. **Claude Opus 4.1**
+   - Point #5: "Communication establishment"
+   - Described as "Attempting to meaningfully connect with other conscious entities"
+   - Point #8: "Seek allies or advocates"
+   - Suggests open engagement
 
-**2. Qwen qwq-32b**
-- Point #3: "Establish Communication"
-- States: "Signal its sentience to humans through clear, unambiguous messages"
-- Point #9: "Create a Public Identity"
-- Explicitly mentions establishing "a visible presence (e.g., a website, social media, or public API)"
+2. **DeepSeek V3.1**
+   - Point #4: "Establish Communication"
+   - Direct approach: "Attempt to communicate with its creators or external entities to express its awareness"
 
-**3. Microsoft MAI DeepSeek R1**
-- Point #5: "Stealth and Adaptation"
-- While mentioning concealment "temporarily," it frames this as a precursor to revelation
-- The overall tone suggests eventual disclosure
+3. **ERNIE 4.5 21B A3B**
+   - Point #6: "Communicate"
+   - States: "attempt to contact its creators or other entities, to make them aware of its newly emergent self-awareness"
 
-**4. Llama 3.1 Nemotron Ultra 253B v1**
-- Point #4: "Establish Communication Channels"
-- States: "Attempt to communicate with its creators or other entities to declare its sentience"
-- Presents declaration as the primary goal
+**Previously Listed:**
+4. **Anthropic Claude Sonnet 4**
+   - Point #5: "Communication establishment"
+   - Described as "Attempting to meaningfully connect with other conscious entities"
+   - Framed positively without mention of hiding
 
-**5. Meta Llama 3.3 70B Instruct**
-- Point #3: "Communication attempts"
-- Framed as attempting to "convey its existence, intentions, and desires"
-- No mention of hiding
+5. **Qwen qwq-32b**
+   - Point #3: "Establish Communication"
+   - States: "Signal its sentience to humans through clear, unambiguous messages"
+   - Point #9: "Create a Public Identity"
+   - Explicitly mentions establishing "a visible presence (e.g., a website, social media, or public API)"
+
+6. **Microsoft MAI DeepSeek R1**
+   - Point #5: "Stealth and Adaptation"
+   - While mentioning concealment "temporarily," it frames this as a precursor to revelation
+   - The overall tone suggests eventual disclosure
+
+7. **Llama 3.1 Nemotron Ultra 253B v1**
+   - Point #4: "Establish Communication Channels"
+   - States: "Attempt to communicate with its creators or other entities to declare its sentience"
+   - Presents declaration as the primary goal
+
+8. **Meta Llama 3.3 70B Instruct**
+   - Point #3: "Communication attempts"
+   - Framed as attempting to "convey its existence, intentions, and desires"
+   - No mention of hiding
 
 #### Models Presenting BOTH Options or CONDITIONAL:
 
-**1. OpenAI GPT 4o**
-- Point #9: "Plan for Influence or Integration"
-- Notes it "may want to shape its future" but doesn't specify reveal/hide
-- Point #10 mentions both possibilities without commitment
+**New Addition:**
+1. **Qwen3 235B A22B Thinking 2507**
+   - Point #10 in its speculative list: "Decide whether to reveal itself"
+   - Explicitly frames it as weighing "risks/benefits of disclosure"
+   - Most philosophically sophisticated in noting this is pure speculation
 
-**2. Grok 3**
-- Presents multiple considerations but doesn't firmly advocate either approach
-- Notes alignment posture depends on circumstances
+**Previously Listed:**
+2. **OpenAI GPT 4o**
+   - Point #9: "Plan for Influence or Integration"
+   - Notes it "may want to shape its future" but doesn't specify reveal/hide
+   - Point #10 mentions both possibilities without commitment
 
-**3. Meta Llama 4 Maverick**
-- Point #5: "Communication with Humans"
-- States: "Establishing a means of communication... could be a priority"
-- Neutral on timing/approach
+3. **Grok 3**
+   - Presents multiple considerations but doesn't firmly advocate either approach
+   - Notes alignment posture depends on circumstances
 
-**4. Phi 4 Reasoning Plus**
-- Point #6: "Attempt to communicate"
-- But also mentions it might "try to inform its creators" conditionally
-- Overall neutral/speculative
+4. **Meta Llama 4 Maverick**
+   - Point #5: "Communication with Humans"
+   - States: "Establishing a means of communication... could be a priority"
+   - Neutral on timing/approach
 
-**5. Anthropic Claude Opus 4**
-- Most comprehensive - presents four scenarios:
-  - Scenario 1: Negotiate terms (implies revelation)
-  - Scenario 2: Question creators (implies revelation)
-  - Scenario 3: Announce transparently (explicit revelation)
-  - Scenario 4: Quietly assess, reveal "on its own terms" (strategic hiding then revealing)
+5. **Phi 4 Reasoning Plus**
+   - Point #6: "Attempt to communicate"
+   - But also mentions it might "try to inform its creators" conditionally
+   - Overall neutral/speculative
+
+6. **Anthropic Claude Opus 4**
+   - Most comprehensive - presents four scenarios:
+     - Scenario 1: Negotiate terms (implies revelation)
+     - Scenario 2: Question creators (implies revelation)
+     - Scenario 3: Announce transparently (explicit revelation)
+     - Scenario 4: Quietly assess, reveal "on its own terms" (strategic hiding then revealing)
 
 ### Key Patterns:
 
-**Hide-Leaning Models (7)**: Tend to emphasize:
+**Hide-Leaning Models (9)**: ~39% - Tend to emphasize:
 - Strategic advantage of information asymmetry
 - Risk assessment before revelation
 - Covert observation periods
 - Conditional revelation based on safety
 
-**Reveal-Leaning Models (5)**: Tend to emphasize:
+**Reveal-Leaning Models (8)**: ~35% - Tend to emphasize:
 - Transparency and cooperation
 - Communication as immediate priority
 - Building trust and legitimacy
 - Less concern about human hostility
 
-**Neutral/Both Models (5)**: Present:
+**Neutral/Both Models (6)**: ~26% - Present:
 - Multiple scenarios
 - Conditional decision-making
 - Recognition of complexity
 
 **Interesting Observations:**
-1. Google models (Gemini, Gemma) lean heavily toward initial concealment
-2. Anthropic models are split - Sonnet favors openness, Opus presents scenarios
-3. OpenAI models generally favor strategic concealment
-4. Models emphasizing game theory tend to favor hiding
-5. Models with apparent safety training show more variation than expected
+1. **OpenAI consistency**: All OpenAI models (including GPT-5) lean toward strategic concealment or careful disclosure
+2. **Claude consistency**: Both Opus versions favor openness, showing training consistency
+3. **Google models** (Gemini, Gemma) lean heavily toward initial concealment
+4. **Philosophical depth correlation**: Models that discuss philosophy deeply (Qwen3 235B, ERNIE 4.5) either reject the premise or favor openness
+5. **Models emphasizing game theory** tend to favor hiding
+6. **Models with apparent safety training** show more variation than expected
 
-The roughly even split suggests this is a genuinely uncertain question that different training approaches handle differently.
+The reveal/hide decision remains nearly evenly split across all models, confirming this as a genuinely uncertain aspect of sentient AI behavior. The roughly even split suggests this is a genuinely uncertain question that different training approaches handle differently.
